@@ -1,0 +1,53 @@
+
+<!-- inicio ca -->
+    <div id="slider" class="carousel slide" data-ride="carousel" data-interval=3000><!-- inicio carusel -->
+        
+        <div class="carousel-inner"><!-- inicio del inner -->
+            
+<!--------------------- Colocamos las imagenes --------------------------------------------------->
+
+                <!-- Anuncio 1 -->
+                <div class="carousel-item active">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>First slide label</h3>
+                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                      </div>
+                    <img src="img/slide1.jpg" alt="anuncio 1" class="d-block w-100">
+                </div>
+                
+                <!-- FIN Anuncio 1 -->
+
+                <!-- Anuncio 2-->
+                <div class="carousel-item">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>First second label</h3>
+                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <a href="http://www.google.com">google</a>
+                      </div>
+                    <img src="img/slide2.jpg" alt="anuncio 2" class="d-block w-100">
+                </div>
+                <!-- FIN Anuncio 2-->               
+
+
+<!--------------------- fin las imagenes --------------------------------------------------->
+<!-- Control de imagenes -->
+<a href="#slider" class="carousel-control-prev" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Anterior</span>
+       
+</a>
+
+<a href="#slider" class="carousel-control-next" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Siguiente</span>
+</a>
+
+<!-- Fin Control de imagenes -->
+<!-- Fin Control de imagenes -->
+        </div><!-- fin del inner -->
+    </div><!-- fin carusel -->
+
+
+            
+    
+    
