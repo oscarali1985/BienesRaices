@@ -1,0 +1,29 @@
+commit bf70dc21fcf8b4b460168dff795eda6bccf2ae6e
+Author: oscarali1985 <oscarali1985@hotmail.com>
+Date:   Mon Jan 20 19:28:58 2020 -0400
+
+    se modifica el menu y se crea el dropdown y formato al menu hamburguesa
+
+commit cd08467f933302697ff742c444d5c83d5f0b30fe
+Author: oscarali1985 <oscarali1985@hotmail.com>
+Date:   Mon Jan 20 18:36:08 2020 -0400
+
+    Se añade el Menu
+
+commit e7c8cc1fce63e5b4bf0007f9634c229272af876e
+Author: oscarali1985 <oscarali1985@hotmail.com>
+Date:   Mon Jan 20 17:55:32 2020 -0400
+
+    Colocamos caption al cariusel
+
+commit 40e2f40e09d30adef8e96f16703d5b5430558037
+Author: oscarali1985 <oscarali1985@hotmail.com>
+Date:   Mon Jan 20 17:03:03 2020 -0400
+
+    se sube el carrucel
+
+commit 4ad5c3b4e292f4ef7c2eb6d5e15660e7ef665792
+Author: oscarali1985 <oscarali1985@hotmail.com>
+Date:   Mon Jan 20 16:54:56 2020 -0400
+
+    inicio del proyecto
